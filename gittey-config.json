@@ -32,6 +32,10 @@
             "name": "docs",
             "command": "cls; booklisp ./docs/_main.md ./readme.md",
             "description": "if booklisp is installed as a global package then this will regenerate the readme"
+        },
+        {
+            "name": "test",
+            "command": "cls; npm test && gittey commit"
         }
     ],
     "collaborators": []

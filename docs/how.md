@@ -3,16 +3,9 @@
     (title "How to use this project"))
 /bl-->
 
-JS-Kata is designed to be your template, not a template generator. The way you use it, is there is a branch for each supported test framework. You switch your branch and then delete the .git folder and start over.
-
-**NOTE:** This readme will also change to give you information on how to run each test framework.
-
-### Currently Supported
-
-~None~
-
-### Future Support
-
-1. Mocha
-2. Jasmine
-3. Jest
+1. Delete the `.git` directory
+2. Run `git init`
+3. Run `npm i`
+4. Run the tests
+   1. `gittey test` if you are using gittey
+   2. `npm test` if you are not using gittey

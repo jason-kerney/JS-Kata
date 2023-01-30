@@ -12,30 +12,19 @@
 
 ## Purpose ##
 
-### Problem Statement
+This provides a template for doing katas in JavaScript using Mocha.
 
-I wanted a quick way to get started with a kata, particularly when introducing other developers to them. I found that the time taken to just get the initial setup up and running detracted from doing the kata.
-
-### Solution
-
-So this project allows for a quick setup of various test environment by providing multiple templates.
     
 
 ## How to use this project ##
 
-JS-Kata is designed to be your template, not a template generator. The way you use it, is there is a branch for each supported test framework. You switch your branch and then delete the .git folder and start over.
+1. Delete the `.git` directory
+2. Run `git init`
+3. Run `npm i`
+4. Run the tests
+   1. `gittey test` if you are using gittey
+   2. `npm test` if you are not using gittey
 
-**NOTE:** This readme will also change to give you information on how to run each test framework.
-
-### Currently Supported
-
-~None~
-
-### Future Support
-
-1. Mocha
-2. Jasmine
-3. Jest
     
 
 ## Useful Tool ##
