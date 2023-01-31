@@ -4,7 +4,7 @@
   "description": "A skeleton for doing katas in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/jason-kerney/JS-Kata#readme",
   "devDependencies": {
     "all-contributors-cli": "^6.24.0",
-    "booklisp": "^2.0.0"
+    "booklisp": "^2.0.0",
+    "jasmine": "^4.5.0"
   }
 }
