@@ -27,6 +27,15 @@
       "contributions": [
         "tool"
       ]
+    },
+    {
+      "login": "davidbrown1775",
+      "name": "davidbrown1775",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95495592?v=4",
+      "profile": "https://github.com/davidbrown1775",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
