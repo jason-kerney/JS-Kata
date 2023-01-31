@@ -8,33 +8,23 @@
 - [Section 1: Purpose](#user-content-purpose)
 - [Section 2: How to use this project](#user-content-how-to-use-this-project)
 - [Section 3: Useful Tool](#user-content-useful-tool)
-- [Section 4: Contributors ✨](#user-content-contributors-✨)
+- [Section 4: Contributors ✨](#user-content-contributors-)
 
 ## Purpose ##
 
-### Problem Statement
+This provides a template for doing katas in TypeScript using Jest.
 
-I wanted a quick way to get started with a kata, particularly when introducing other developers to them. I found that the time taken to just get the initial setup up and running detracted from doing the kata.
-
-### Solution
-
-So this project allows for a quick setup of various test environment by providing multiple templates.
     
 
 ## How to use this project ##
 
-JS-Kata is designed to be your template, not a template generator. The way you use it, is there is a branch for each supported test framework. You switch your branch and then delete the .git folder and start over.
+1. Delete the `.git` directory
+2. Run `git init`
+3. Run `npm i`
+4. Run the tests
+   1. `gittey test` if you are using gittey
+   2. `npm test` if you are not using gittey
 
-**NOTE:** This readme will also change to give you information on how to run each test framework.
-
-### Currently Supported
-
-1. Mocha
-
-### Future Support
-
-1. Jasmine
-2. Jest
     
 
 ## Useful Tool ##
@@ -76,6 +66,28 @@ Lets you choose which branch to checkout via selection list.
 
 ## Contributors ✨ ##
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/edf-re"><img src="https://avatars.githubusercontent.com/u/13739273?v=4?s=100" width="100px;" alt="EDF Renewables"/><br /><sub><b>EDF Renewables</b></sub></a><br /><a href="#financial-edf-re" title="Financial">💵</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.chrisstead.net/"><img src="https://avatars.githubusercontent.com/u/4184510?v=4?s=100" width="100px;" alt="Chris Stead"/><br /><sub><b>Chris Stead</b></sub></a><br /><a href="#tool-cmstead" title="Tools">🔧</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
     
 
 <!-- GENERATED DOCUMENT! DO NOT EDIT! -->

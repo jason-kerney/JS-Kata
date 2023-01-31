@@ -24,6 +24,11 @@
             "description": "resets branch to last checked in state"
         },
         {
+            "name": "test",
+            "command": "npm test && gittey commit",
+            "description": "runs tests on on success commits the code"
+        },
+        {
             "name": "push",
             "command": "gittey commit && git push",
             "description": "performs a git push"
