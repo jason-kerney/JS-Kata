@@ -31,10 +31,7 @@ JS-Kata is designed to be your template, not a template generator. The way you u
 
 1. mocha
 2. jasmine
-
-### Future Support
-
-1. Jest
+3. Jest
     
 
 ## Useful Tool ##
@@ -75,8 +72,6 @@ Lets you choose which branch to checkout via selection list.
     
 
 ## Contributors ✨ ##
-
-## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 

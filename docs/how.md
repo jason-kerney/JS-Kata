@@ -11,7 +11,4 @@ JS-Kata is designed to be your template, not a template generator. The way you u
 
 1. mocha
 2. jasmine
-
-### Future Support
-
-1. Jest
+3. Jest
